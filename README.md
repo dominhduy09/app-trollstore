@@ -1,22 +1,20 @@
 # app-trollstore 
 
-🌟 COLLECTION 🌟
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-<br>
-
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)      
+       
 🔥🔥🔥 TrollStore 2 is out now 🔥🔥🔥   
-
+🌟 COLLECTION 🌟
  <br>
 
 📝 Note by @taidohomework:   
+      
 coretrust (15.0 - 15.4.1, 15.5b1 - 15.5b4)   
 mdc (15.0 - 16.1.2)   
 kfd (15.0 - 16.5, 16.5b1, 17.0)     
 
 
-📥 Download:     
+📥 Download:  
+       
 https://api.jailbreaks.app/troll64e (wait update)    
 
 TipGotTrolled (https://tinyurl.com/34xmmy2a) (mdc only)    
@@ -27,7 +25,7 @@ TrollInstaller2 (https://tinyurl.com/54tevmm8) (mdc, kfd)
 **Wait new cert free**        
     
 🚩 Infomation: https://ios.cfw.guide/installing-trollstore/         
-   
+          
 💡Tip: Misaka only.   
    
 - Delete your Tips app   
@@ -37,4 +35,9 @@ TrollInstaller2 (https://tinyurl.com/54tevmm8) (mdc, kfd)
 - Click on the Packages button    
 - Select «Install TrollStore»    
 - Select «Tips»     
-
+        
+| iPA      | Author  |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
