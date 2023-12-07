@@ -23,7 +23,7 @@ https://api.jailbreaks.app/troll64e (wait update)
 
 https://ios.cfw.guide/installing-trollstore
 
-💡Tip: 
+💡 Tip: 
 
 Misaka only
 
@@ -35,8 +35,7 @@ Misaka only
 - Select «Install TrollStore»
 - Select «Tips»
 
-| iPA      | Author  |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+| iPA                  |       Author  |
+| --------             |       ------- |
+| (YouTube)[]          |         (ginsudev)[https://github.com/ginsudev]  |
+| (YouTube Music)[https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.5.2/YTMUltimate_v1.5.2_YTM6.20.2.ipa]    |     (ginsudev)[https://github.com/ginsudev]          |
