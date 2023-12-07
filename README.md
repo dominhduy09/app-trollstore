@@ -35,7 +35,9 @@ Misaka only
 - Select «Install TrollStore»
 - Select «Tips»
 
-| iPA            |       Author  |
-| --------       |       ------- |
+| iPA                     |       Author  |
+| ------------------------|----------------------- |
 | (uYouPlus)[https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa] | (qnblackcat)[https://github.com/qnblackcat] |
 | (YouTube Music)[https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.5.2/YTMUltimate_v1.5.2_YTM6.20.2.ipa] | (ginsudev)[https://github.com/ginsudev] |
+| (SpotilifeC )[https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.5.2/YTMUltimate_v1.5.2_YTM6.20.2.ipa] | (SpotCompiled)[https://github.com/SpotCompiled] |
+
