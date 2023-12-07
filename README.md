@@ -1,10 +1,13 @@
 # app-trollstore 
 🌟 COLLECTION 🌟
 
+<br>
+
 🔥🔥🔥 TrollStore 2 is out now 🔥🔥🔥
 
+ <br>
 
-📝 Note by @taidohomework:
+📝 Note by @taidohomework: <br>
 coretrust (15.0 - 15.4.1, 15.5b1 - 15.5b4)
 mdc (15.0 - 16.1.2)
 kfd (15.0 - 16.5, 16.5b1, 17.0)
