@@ -38,4 +38,4 @@ Misaka only
 | iPA                  |       Author  |
 | --------             |       ------- |
 | (YouTube)[]          |         (ginsudev)[https://github.com/ginsudev]  |
-| (YouTube Music)[https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.5.2/YTMUltimate_v1.5.2_YTM6.20.2.ipa]    |     (ginsudev)[https://github.com/ginsudev]          |
+| (YouTube Music)[https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.5.2/YTMUltimate_v1.5.2_YTM6.20.2.ipa]    |     (ginsudev)[https://github.com/ginsudev]      |
