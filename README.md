@@ -1,13 +1,9 @@
 # app-trollstore 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)      
-       
-🔥🔥🔥 TrollStore 2 is out now 🔥🔥🔥   
-🌟 COLLECTION 🌟
- <br>
+🔥🔥🔥 TrollStore 2 is out now, these are iPA collection. 🔥🔥🔥 
 
-📝 Note by @taidohomework:   
-      
+📝 Note by @taidohomework:
+
 coretrust (15.0 - 15.4.1, 15.5b1 - 15.5b4)   
 mdc (15.0 - 16.1.2)   
 kfd (15.0 - 16.5, 16.5b1, 17.0)     
