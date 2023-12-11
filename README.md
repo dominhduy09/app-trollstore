@@ -46,9 +46,9 @@ Misaka only
 | (CAPerfHUD)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/CAPerfHUD.tipa] | (khanhduytran0)[https://github.com/khanhduytran0] |
 | (TrollBox)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/TrollBox.tipa] | (c22dev)[https://github.com/c22dev] |
 | (PostBox)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/PostBox-0.8.1-beta.ipa] | (PostBox)[https://github.com/PostBox-Team] |
-| (AirTroller)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/PostBox-0.8.1-beta.ipa] | (sourcelocation)[https://github.com/sourcelocation] |
-| (Cowabunga)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/PostBox-0.8.1-beta.ipa] | (leminlimez)[https://github.com/leminlimez] |
-| (TrollTools)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/PostBox-0.8.1-beta.ipa] | (sourcelocation)[https://github.com/sourcelocation] |
+| (AirTroller)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/AirTroller-1.1.1.tipa] | (sourcelocation)[https://github.com/sourcelocation] |
+| (Cowabunga)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/Cowabunga.ipa] | (leminlimez)[https://github.com/leminlimez] |
+| (TrollTools)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/TrollTools.tipa] | (sourcelocation)[https://github.com/sourcelocation] |
 
 
 
