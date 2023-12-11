@@ -44,4 +44,6 @@ Misaka only
 | (BHTikTok)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/SpotilifeC.v1.2.3_v8.6.42.ipa] | (BHTikTok)[https://github.com/BandarHL/BHTikTok] |
 | (Helium)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/SpotilifeC.v1.2.3_v8.6.42.ipa] | (Helium)[https://github.com/leminlimez/Helium] |
 | (CAPerfHUD)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/SpotilifeC.v1.2.3_v8.6.42.ipa] | (khanhduytran0)[https://github.com/khanhduytran0] |
+| (TrollBox)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/SpotilifeC.v1.2.3_v8.6.42.ipa] | (c22dev)[https://github.com/c22dev] |
+| (PostBox)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/SpotilifeC.v1.2.3_v8.6.42.ipa] | (PostBox)[https://github.com/PostBox-Team] |
 
