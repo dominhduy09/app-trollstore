@@ -14,7 +14,12 @@ https://api.jailbreaks.app/troll64e (wait update)
 
 - TipGotTrolled (https://tinyurl.com/34xmmy2a) (mdc only)  
 - Misaka (https://tinyurl.com/mpzs35em) (coretrust, mdc, kfd)   
-- TrollInstaller2 (https://tinyurl.com/54tevmm8) (mdc, kfd)  
+- TrollInstaller2 (https://tinyurl.com/54tevmm8) (mdc, kfd)
+- Trollstar (https://ipalinks.ru/dl/BSx73) (kfd)
+
+🔐 Q&A:
+
+- https://www.reddit.com/r/Trollstore/s/v3cfO4kl8s
 
 **Certificate revoked**
 **Wait new cert free**  
