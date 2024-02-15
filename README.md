@@ -58,5 +58,5 @@ Misaka only
 | (Cowabunga)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/Cowabunga.ipa] | (leminlimez)[https://github.com/leminlimez] |
 | (TrollTools)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/TrollTools.tipa] | (sourcelocation)[https://github.com/sourcelocation] |
 
-
+Thank for contributing and credits.
 
