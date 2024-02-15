@@ -23,14 +23,13 @@ https://api.jailbreaks.app/troll64e (wait update)
 
 - https://www.reddit.com/r/Trollstore/s/v3cfO4kl8s
 
-**Certificate revoked**
-**Wait new cert free**  
+**Wait new free cert if Certificate revoked**
 
 🚩 Infomation: 
 
 https://ios.cfw.guide/installing-trollstore
 
-💡 Tip: 
+💡 Tips: 
 
 Misaka only
 
