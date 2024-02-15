@@ -1,5 +1,8 @@
 # app-trollstore 
 
+Our group --> join now!
+# https://linkbio.co/everything_group
+
 🔥🔥🔥 TrollStore 2 is out now, these are iPA collection. 🔥🔥🔥 
 
 📝 Note by @taidohomework:
