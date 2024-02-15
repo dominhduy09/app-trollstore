@@ -1,7 +1,6 @@
 # app-trollstore 
 
-Our group --> join now!
-# https://linkbio.co/everything_group
+Our group --> join now: https://linkbio.co/everything_group
 
 🔥🔥🔥 TrollStore 2 is out now, these are iPA collection. 🔥🔥🔥 
 
@@ -58,5 +57,5 @@ Misaka only
 | (Cowabunga)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/Cowabunga.ipa] | (leminlimez)[https://github.com/leminlimez] |
 | (TrollTools)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/TrollTools.tipa] | (sourcelocation)[https://github.com/sourcelocation] |
 
-Thank for contributing and credits.
+Thank for contributing and credits.. See more at Release.
 
