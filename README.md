@@ -41,6 +41,8 @@ Misaka only
 - Select «Install TrollStore»
 - Select «Tips»
 
+![alt text](Installing Trollstore.png "Title")
+
 | iPA                     |       Author           |
 | ------------------------|------------------------|
 | (uYouPlus)[https://github.com/dominhduy09/app-trollstore/releases/download/iPA-Trollstore/uYouPlus_18.14.1_3.0.ipa] | (qnblackcat)[https://github.com/qnblackcat] |
