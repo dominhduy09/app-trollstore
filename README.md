@@ -41,7 +41,8 @@ Misaka only
 - Select «Install TrollStore»
 - Select «Tips»
 
-![alt text](Installing Trollstore.png "Title")
+![image](https://github.com/user-attachments/assets/de75c0e6-9d3f-458e-aa8f-e78064f8fb1c)
+
 
 | iPA                     |       Author           |
 | ------------------------|------------------------|
