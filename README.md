@@ -41,7 +41,59 @@ Misaka only
 - Select «Install TrollStore»
 - Select «Tips»
 
-![image](https://github.com/user-attachments/assets/de75c0e6-9d3f-458e-aa8f-e78064f8fb1c)
+Here’s a clean SideStore section you can place directly below your TrollStore post:
+
+⸻
+
+📦 SideStore (Alternative – No PC after setup)
+
+🔥 Install & refresh iPA directly on your device 🔥
+
+📝 About SideStore:
+
+* Works like AltStore but refreshes apps over WiFi
+* No need to reconnect to PC every 7 days
+* Uses Apple ID (recommend using a secondary account)
+* Supports most iOS versions
+
+📥 Download & Guide:
+
+* Tutorial: https://www.youtube.com/watch?v=kaYBV9_uvaA
+* Website: https://sidestore.io
+
+⚙️ Requirements:
+
+* iPhone / iPad
+* Apple ID
+* Computer (first install only)
+* Same WiFi network
+
+🚀 Steps:
+
+1. Install SideStore using AltServer
+2. Trust the app in Settings
+3. Enable VPN inside SideStore
+4. Install & refresh apps directly on device
+
+📦 Compatible iPA:
+
+* uYouPlus
+* YTMUltimate
+* Spotilife
+* BHTikTok
+* And more…
+
+🔐 Tips:
+
+* Keep SideStore refreshed
+* Turn on VPN when refreshing
+* Use a secondary Apple ID
+* Reinstall if app crashes
+
+🚩 Note:
+SideStore is not permanent signing like TrollStore, apps must be refreshed every 7 days.
+
+⸻
 
 
 | iPA                     |       Author           |
