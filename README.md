@@ -94,6 +94,5 @@ SideStore is not permanent signing like TrollStore, apps must be refreshed every
 More Sources:
 https://github.com/loc567/loc567
 
-
-Thank for contributing and credits.. See more at Releases.
+Thank for contributing and credits.. See more at (Releases)[https://github.com/dominhduy09/app-trollstore/releases/tag/iPA-Trollstore].
 
