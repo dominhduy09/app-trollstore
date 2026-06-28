@@ -1,3 +1,5 @@
+<img width="683" height="865" alt="82916" src="https://github.com/user-attachments/assets/4c27f245-8822-4a12-801d-291ff2f12f9c" />
+
 # app-trollstore 
 Join our group now: https://linkbio.co/everything_group
 
