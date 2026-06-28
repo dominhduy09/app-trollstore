@@ -1,3 +1,5 @@
+![Installing TrollStore](https://github.com/dominhduy09/app-trollstore/blob/main/Installing%20TrollStore.png?raw=true)
+
 # app-trollstore 
 Join our group now: https://linkbio.co/everything_group
 
