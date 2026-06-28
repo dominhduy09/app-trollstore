@@ -14,7 +14,7 @@ https://api.jailbreaks.app/troll64e (wait update)
 - Misaka (https://tinyurl.com/mpzs35em) (coretrust, mdc, kfd)   
 - TrollInstaller2 (https://tinyurl.com/54tevmm8) (mdc, kfd)
 - Trollstar (https://ipalinks.ru/dl/BSx73) (kfd)
-<br>
+
 (There are many more ways until now, users can edit by using filza to have Trollstore)
 
 🔐 Q&A:
